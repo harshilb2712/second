@@ -14,3 +14,6 @@ def change():
 
 def mul(a, b):
     return a * b
+
+def jo():
+    print('jojo')
