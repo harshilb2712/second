@@ -11,3 +11,6 @@ def sub(a, b):
 def change()
     c = a/b
     return c
+
+def mul(a, b):
+    return a * b
