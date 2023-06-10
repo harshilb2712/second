@@ -8,6 +8,6 @@ def add(a, b):
 
 def sub(a, b):
     return a - b
-def change()
+def change():
     c = a/b
     return c
