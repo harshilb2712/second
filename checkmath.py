@@ -1,7 +1,7 @@
 def sin(n):
     print('Hi')
     
-pi = 89
+pi = 3.14
 
 def add(a, b):
     return a + b
